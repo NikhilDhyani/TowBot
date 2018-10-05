@@ -10,7 +10,7 @@ It lets the owner of vehicle know whether their vehicle has been towed or not in
 
 ## But who can update the detail about the vehicle?
 
-The person who has been authorized the organization to tow the vehicle. Ex.  Police Officer.
+The person who has been authorized by the organization to tow the vehicle. Ex.  Police Officer.
 
 ## How Police Officer or Authorized person can update details about vehicle?
 
@@ -27,11 +27,14 @@ Organization generate unique email and password for each officer. Only with thos
  
 ## Tech Stack
 
-Firebase - For <b>Real Time Database</b> and for <b>Hosting</b>
-DialogFlow - For <b>Natural Language Processing</b>
-Messenger Api - For Sending And Receiving Messages.
-Android App - Java 
-Web App - Node.js, Express.js
+Firebase - For <b>Real Time Database</b> and for <b>Hosting</b> <br>
+DialogFlow - For <b>Natural Language Processing</b> <br>
+
+Messenger Api - For Sending And Receiving Messages. <br>
+
+Android App - Java <br>
+
+Web App - Node.js, Express.js <br>
 
 URL for towbot web interface:
  https://towbotweb.herokuapp.com/
