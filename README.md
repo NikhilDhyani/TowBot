@@ -16,7 +16,7 @@ The person who has been authorized by the organization to tow the vehicle. Ex.  
 
 For officers there is a separate android client (app) which they can use to update details.
 
-## What if officer doesn't have a internet connection?
+## What if officer doesn't have an internet connection?
 
 There is a <b>web app</b> also. <br>
 In that case officer can contact the server room , and the person in the server room can add the details of the vehilce using the web app. 
